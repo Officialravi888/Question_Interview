@@ -1,0 +1,174 @@
+                     https://javarevisited.blogspot.com/2012/10/10-java-string-interview-question-answers-top.html#axzz7mfRocwrK
+
+1. What is String in Java? Is String is data type?
+2. Why is String final in Java? 
+3. What is the difference between String and StringBuffer in Java? 
+4. What is the difference between String on C and Java?
+5. Why char array is better than a String for storing passwords? 
+6. How do you compare two String in Java? 
+7. Can we compare String using == operator? What is the risk?
+8. How does the substring method work in Java?
+9. What is the String pool in Java?
+10. What does the intern() method do in Java?
+11. Is string thread-safe in Java? 
+
+
+
+
+Array interview Question.
+0)What is an array? 
+1)what is collection in java
+2)what is ArrayList in java
+3)what is LinkedList in java
+4)Difference between ArrayList and LinkedList. 
+5)what is ListInterface in java
+6)what is vector in java
+7)Diffenerence between Vector and ArrayList
+8)what is Map
+9)what is stack
+10)Difference between List and Stack
+11)Difference between List and Queue
+12)Difference between Map and List
+13)Difference between set and list
+14)what is HashMap
+15)what is tree
+16)what is Hashset
+17)list set queue map
+18)what is queue
+19) Difference between map and queue
+20)Difference between array and arrayList
+
+
+Collections Interview Questions and Answers
+https://www.guru99.com/java-collections-interview-questions-answers.html
+
+1) What is framework in Java?
+2) What is the Collection framework in Java?
+3) Explain Collections Class
+4) What is the hashCode()?
+5) Distinguish between ArrayList and Vector in the Java collection framework.
+What is ArrayList in Java?
+7) Differentiate between Iterator and ListIterator
+8) What is the difference between Iterator and Enumeration?
+9) Define BlockingQueue
+10) Explain override equals() method
+11) What is the difference between Comparable and Comparator?
+12) Explain equals() with example
+13) List out benefits of generic collection
+14) Explain the method to convert ArrayList to Array and Array to ArrayList
+17) Explain the basic interfaces of the Java collections framework
+18) What are the features of Java Hashmap?
+19) What is a Stack?
+20) What is linked list?
+22) Explain linked list supported by Java
+
+
+Exception Handling
+https://www.interviewkickstart.com/interview-questions/java-exception-handling-interview-questions
+
+Q1. How can you handle exceptions in Java?
+Q2. What is the difference between exception and error in Java?
+Q3. Why do we need exception handling in Java?
+Q4. Name the different types of exceptions in Java
+Q5. Can we just use try instead of finally and catch blocks?
+Q6.difference between unchecked and checked exceptions in Java.
+Q7.Describe the use of the throw keyword.
+
+
+
+Multithreading Interview Questions in Java for Freshers
+https://www.interviewbit.com/multithreading-interview-questions/
+
+1. What are the benefits of using Multithreading?	
+2. What is Thread in Java?
+3. What are the two ways of implementing thread in Java?
+4. What's the difference between thread and process?
+5. What’s the difference between class lock and object lock?
+6. What's the difference between User thread and Daemon thread?
+7. How can we create daemon threads?
+8. What are the wait() and sleep() methods?
+9. What’s the difference between notify() and notifyAll()?
+10. Why wait(), notify(), and notifyAll() methods are present in Object class?
+11. What is Runnable and Callable Interface? Write the difference between them.
+12. What is the start() and run() method of Thread class?
+13. Explain thread pool?
+14. What’s the purpose of the join() method?
+15. What do you mean by garbage collection?
+16. Explain the meaning of the deadlock and when it can occur?
+17. Explain volatile variables in Java?
+18. How do threads communicate with each other?
+19. Can two threads execute two methods (static and non-static concurrently)?
+20. What is the purpose of the finalize() method?
+21. What is the synchronization process? Why use it?
+
+Constructure interview Question.
+https://www.javainterviewpoint.com/top-14-core-java-interview-questions-constructors/
+
+
+
+
+
+
+
+Lambda interview Question
+https://intellipaat.com/blog/interview-question/aws-lambda-interview-questions/
+Q1. What is AWS Lambda?
+Q2. What are the languages supported by AWS Lambda?
+Q3. What is automated deployment?
+Q4. What is Auto Scaling in Lambda?
+Q5. What type of storage is provided by Amazon?
+Q6. While performing DDOS, what is the limit for execution in Lambda?
+Q7. What do you think makes Lambda a timesaving approach?
+Q8. What is your understanding of AMI?
+Q9. Do you think there is a relation between Instance and AMI?
+Q10. What are the best practices for security in Lambda?
+
+Consumer.
+https://interview-easy.com/java-8-interview-questions-and-answers/
+
+
+
+interface
+https://www.interviewbit.com/java-8-interview-questions/
+14. What is a type interface?
+
+
+
+How to convert Stream to List, Set, and HashMap in Java 8
+https://www.java67.com/2019/05/how-to-convert-stream-to-list-set-map-in-java.html
+1. Stream to List Example
+1.1 Stream to ArrayList Example
+1.2 Stream to LinkedList Example
+2. Stream to Set Examples
+2.1 Stream to HashSet Example
+2.2 Stream to LinkedHashSet Example
+2.3 Stream to TreeSet Example
+3. Stream to Map Examples
+3.1 Stream to HashMap Example
+3.2 Stream to LinkedHashMap Example
+3.3 Stream to TreeMap Example
+4. Stream to ConcurrentMap Examples
+4.1 Java Stream to ConcurrentHashMap Example
+How to Convert Stream to List, Set, and Map in Java - Example
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+

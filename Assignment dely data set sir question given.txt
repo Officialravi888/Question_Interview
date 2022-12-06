@@ -1,0 +1,234 @@
+                                                  First Assignment----------------------------1
+Java basics
+
+Define the scope of variables ---::Variable in Java is a data container that saves the data values during Java program execution. Every variable is assigned a data type that designates the type and quantity of value it can hold. A variable is a memory location name for the data.
+A variable is a name given to a memory location. It is the basic unit of storage in a program.
+
+Define the structure of a Java class
+Create executable Java applications with a main method---::In Java programs, the point from where the program starts its execution or simply the entry point of Java programs is the main() method. Hence, it is one of the most important methods of Java and having a proper understanding of it is very important.
+
+run a Java program from the command line, including console output
+
+
+Import other Java packages to make them accessible in your code---:Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces.
+
+
+
+Compare and contrast the features and components of Java, such as platform inde-pendence, object orientation, encapsulation, and so on Working with Java data types-----::
+encapsulation--::Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together code and the data it manipulates. Another way to think about encapsulation is, that it is a protective shield that prevents the data from being accessed by the code outside this shield
+
+The meaning of platform-independent is that the java compiled code(byte code) can run on all operating systems.
+A program is written in a language that is a human-readable language. It may contain words, phrases, etc which the machine does not understand. For the source code to be understood by the machine, it needs to be in a language understood by machines, typically a machine-level language. So, here comes the role of a compiler
+
+
+
+Declare and initialize variables (including casting of primitive data types) 
+Differentiate between object reference variables and primitive variables 
+Know how to read and write to object fields
+Explain an object's lifecycle (creation, "dereference by reassignment," and garbage 
+collection)
+
+Develop code that uses wrapper classes such as Boolean, Double, and Integer 
+
+ wrapper---::A Wrapper class is a class whose object wraps or contains primitive data types. When we create an object to a wrapper class, it contains a field and in this field, we can store primitive data types. In other words, we can wrap a primitive value into a wrapper class object.
+
+Using 0perators and decision constructs
+Use Java operators, including parentheses to override operator precedence 
+Test equality between Strings and other objects using == and equals() 
+
+Create if and if/else and ternary constructs---:A ternary search tree is a special trie data structure where the child nodes of a standard trie are ordered as a binary search tree. 
+
+
+
+Use a switch statement---::The switch statement is a multi-way branch statement. In simple words, the Java switch statement executes one statement from multiple conditions. It is like an if-else-if ladder statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression. Basically, the expression can be a byte, short, char, and int primitive data types. It basically tests the equality of variables against multiple values.
+
+                                                second Assignment------------------------------2
+1) Download and install Maven 
+2) Add maven to your class path .i.e you should be able to run mvn command from any location .
+3) Create a Maven project & add your java code in that maven project
+4) create a document of the above task
+
+                                                 Third Assignment------------------------------3
+Create and use while loops
+
+
+Create and use for loops, including the enhanced for loop
+
+
+Create and use do-while loops 
+
+
+Compare loop constructs--:The loop for construct in common LISP is used to iterate over an iterable, similar to the for loop in other programming languages. It can ber used for the following:
+
+This is used to set up variables for iteration.
+It can be used for conditionally terminate the iteration.
+It can be used for operating on the iterated elements.
+
+
+Use break and continue--:The break and continue statements are the jump statements that are used to skip some statements inside the loop or terminate the loop immediately without checking the test expression. These statements can be used inside any loops such as for, while, do-while loop.
+
+Working with methods and encapsulation
+Create methods with arguments and return values, including overloaded methods 
+Apply the static keyword to methods and fields 
+Create and overload constructors, including impact on default constructors 
+Apply access modifiers
+Apply encapsulation principles to a class
+Determine the effect on object references and primitive values when they are passed 
+into methods that change the values
+
+                                                  Forth Assignment-----------------------------4
+
+1) Create a branch   from master/main 
+2) add change to master 
+3)create a pull request with appropriate command 
+4) merge the pull request
+
+                                                  Five Assignment--------------------------------5
+
+Ping here once you guys are done .before EOD.
+
+                                                  six Assignment---------------------------------6
+Assignment: Memory Management in Java 
+
+Focus:  where variables are created & scope of various types of variables( e.g method local, static , etc )
+1) study the methods of Object class
+
+                                                  Seven Assignment--------------------------------7
+
+Assignment : (First priority task)
+
+write  Add method  using generics to add any type ( note: for string ,char you can just concatenate)
+
+
+                                                  Eight Assignment----------------------------------8
+Assignment : Ravikant only : 
+
+study all the data types in Java  and prepare a document using code.
+Assignment: Study  Comparator,Comparable and its methods and show 2 examples each.
+Assignment: Study Top 20 Generics interview questions and answer with code.
+
+                                                  Assignment---------------------------------------9
+1) interact and abstract methods design decisions
+2)  default & static methods in interfaces 
+3) Functional interface 
+4) Lambda functions 
+5) Runnable & comperator  
+6) Constuctors ,over loaded constructors , design choice
+7) lambda 15 example
+
+Task -1 
+
+5 Real world lambda examples
+Lambda returning value 
+Lambda not returning value
+
+
+https://www.youtube.com/watch?v=-1XE__rrbjQ&list=PLVz2XdJiJQxzrdrpglCv_nWIO5CDIqOVj
+                                                 
+                                                 
+                                                  Assignment---------------------------------------10
+                                    https://www.youtube.com/watch?v=t5X7Ep2PrTY&list=PLJc-LD5TzDQR2fxBM65I3XgOfxkQAhURv
+                                                  
+                                                  https://www.youtube.com/watch?v=osmeK3Tsmuk
+                                                  
+1) Consumer---:Consumer<String> con = s -> System.out.println(s);
+2) Biconsumer 
+3) Predicate ---:Predicate is a functional interface, which accepts an argument and returns a boolean. Usually, it used to apply in a filter for a collection of objects. @FunctionalInterface public interface Predicate<T> { boolean test(T t); }
+4) Bipredicate--:BiPredicate is a functional interface, which accepts two arguments and returns a boolean, basically this BiPredicate is same with the Predicate
+5) Consumer chaining 
+6) PredicateChaining 
+7) Bipredicate & Biconsumer & BiFunction---:::ek se jeyada argument print karne ke ley
+8) Function  ( new ) 
+9) Supplier  (new )--:supplier value nahi leta but kuc na kuch return karta h
+Supplier is a predefined function interface like consumer present in java util function package it has one abstract method
+
+Bipredicate--:it is the same as a predicate interface but the only diffrent it task two input argument to perform aconditional check.
+Pr
+Syntax--:
+interface BiPredicate<T,U>{
+public boolean test(T t,U u);
+}
+
+BiFunction--:it is the same as a function predefine function interface but the only difference it takes two input argument to perform some operation.
+
+Syntax--:
+interface BiFunction<T,U,R>{
+public R apply(T t, U u);
+}
+
+Biconsumer--:Biconsumeris exactly the same as consumer except that it will take 2 input argument.
+
+Syntax--
+interface Biconsumer<T,U>{
+public void accept(T t, U u);
+}
+
+						 Assignment---------------------------------11
+						 https://phoenixnap.com/kb/install-mysql-ubuntu-20-04(MY SQL DOWNLOD IN TERMINAL)
+Assignment : 
+
+1)draw exception hierarchy 
+2)what is difference between checked and unchecked exception. 
+3)what is runtime exception ? what is compile time exception?
+
+4)The try statement allows you to define a block of code to be tested for errors while it is being executed.
+
+The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
+
+The try and catch keywords come in pairs:
+
+Syntax
+try {
+  //  Block of code to try
+}
+catch(Exception e) {
+  //  Block of code to handle errors
+}
+
+						 Assignment---------------------------------12
+1) streams 
+2) lambda variable scope 
+3) what is effectively final in lambda ? 
+4) lambda Method reference 
+5) lambda constructor reference 
+6) filter streams 
+7) difference between streams and collections ( list , map etc )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
