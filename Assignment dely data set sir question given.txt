@@ -1,4 +1,5 @@
-                                                  First Assignment----------------------------1
+https://www.youtube.com/watch?v=RBsuIpJ6EQs&list=PLwIi8rEnGr6zVxFI9FWcRrFRZQj5scjwQ
+					First Assignment----------------------------1
 Java basics
 
 Define the scope of variables ---::Variable in Java is a data container that saves the data values during Java program execution. Every variable is assigned a data type that designates the type and quantity of value it can hold. A variable is a memory location name for the data.
@@ -195,7 +196,12 @@ catch(Exception e) {
 7) difference between streams and collections ( list , map etc )
 
 
-
+						 Assignment---------------------------------13
+			  https://www.youtube.com/watch?v=RBsuIpJ6EQs&list=PLwIi8rEnGr6zVxFI9FWcRrFRZQj5scjwQ
+1) Write 5 switch class examples 
+2) Difference between String , StringBuilder & StringBuffer 
+3) Study equals and hashcode methods of the Object class 
+4) difference between == and equals
 
 
 

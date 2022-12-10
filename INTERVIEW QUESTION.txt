@@ -1,3 +1,4 @@
+                    						git remote remove origin
                      https://javarevisited.blogspot.com/2012/10/10-java-string-interview-question-answers-top.html#axzz7mfRocwrK
 
 1. What is String in Java? Is String is data type?
@@ -136,6 +137,7 @@ https://www.interviewbit.com/java-8-interview-questions/
 
 How to convert Stream to List, Set, and HashMap in Java 8
 https://www.java67.com/2019/05/how-to-convert-stream-to-list-set-map-in-java.html
+
 1. Stream to List Example
 1.1 Stream to ArrayList Example
 1.2 Stream to LinkedList Example
@@ -151,7 +153,26 @@ https://www.java67.com/2019/05/how-to-convert-stream-to-list-set-map-in-java.htm
 4.1 Java Stream to ConcurrentHashMap Example
 How to Convert Stream to List, Set, and Map in Java - Example
 
-
+Java Stream
+Java Byte Stream
+Java Character Stream
+Java Console IO
+Java File class
+Java File Reading & Writing
+Java RandomAccessFile
+Java Console class
+Java Serialization
+Java Enumerations
+Java Autoboxing
+Java Generics
+Java Exception Handling
+Java Exception Types
+Java Exception Models
+Java Uncaught Exceptions
+Java try and catch
+Java throw, throws, finally
+Java Built-in Exceptions
+Java Creating Own
 
 
 
